@@ -1,5 +1,5 @@
 env: "local"
-pg_url: "postgres://postgres:123456@localhost:5432/forum"
+pg_url: "postgres://postgres:St070525@localhost:5432/forum"
 token_ttl: 1h
 log_level: "debug"
 grpc_port: 44044
